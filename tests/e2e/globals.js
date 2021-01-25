@@ -42,7 +42,7 @@ module.exports = {
      *   return 'Firefox specific global';
      * }
      */
-  },
+  }
 
   /// //////////////////////////////////////////////////////////////
   // Global hooks
@@ -101,4 +101,4 @@ module.exports = {
     cb();
   }
    */
-};
+}
